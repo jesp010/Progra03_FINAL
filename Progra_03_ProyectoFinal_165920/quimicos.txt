@@ -1,0 +1,37 @@
+442234_Aceite de petroleo crudo
+969078_Acetato de plomo
+826754_Acetileno
+950125_Acetona
+923393_Ácido Clorhídrico
+624180_Ácido Fosfórico
+856560_Bromuro mercúrico
+335849_Ciclopentano
+147825_Clorato de cinc
+850707_Clorato de sodio
+590737_Cloro
+658904_Cloroformo
+190590_Dietilamina
+167425_Dióxido de plomo
+786104_Etano
+896872_Eter metílico
+216349_Fluoruro de sodio
+894697_Hidrógeno
+736208_Keroseno
+907057_Isobutano
+576489_Propano
+882764_Silano
+864833_Sodio
+186476_Tiofosgeno
+545960_Trementina
+449585_Undecano
+365063_Yoduro de metilo
+979568_Sulfuro de hidrógeno
+558087_Óxido nítrico
+771341_Óxido de calcio
+723087_Peróxido bárico
+335926_Nitrato de plomo
+921512_Metano
+781027_Metaldehído
+469960_Yoduro de metilo
+409197_Naftaleno
+366460_Azufre
