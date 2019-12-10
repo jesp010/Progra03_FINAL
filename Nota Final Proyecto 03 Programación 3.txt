@@ -1,0 +1,11 @@
+Nota Final Proyecto 03 Programación 3
+
+Justificación para no usar hilos explicitamente en el proyecto:
+Porque es un proyecto con interfaz gráfica y cada instancia de JFrame implicitamente crea un hilo nuevo, si estoy usando hilos pero no directamente.
+
+Justificación para no crear mis propias clases/métodos genericos:
+No encontre un problema dentro de este proyecto en especifico donde valiera realmente la pena desarrollar clases y/o métodos genericos, pero si que usé genericos, en especial ArrayList.
+
+Del tema "Gráficos" apliqué el ponerle el icono de ITSON a la ventana principal del proyecto.
+Del tema "Expresiones regulares" apliqué el detectar si la fecha de traslados de residuos quimicos estaba en formato válido, también ya que usé archivos como forma de persistencia de datos usé expresiones regulares para extraer valores de los registros.
+Del tema "Archivos" apliqué todo de nuevo pues me basé en eso para implementar la persistencia de datos en este proyecto escribiendo registros en archivos de texto y despues leerlos y convertirlos a objetos de negocio en la capa de DAOs.
